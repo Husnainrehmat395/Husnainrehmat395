@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Husnain Rehmat</h1>
-<h3 align="center">A passionate about technology from Pakistan.</h3>
-<img align="right" alt = " coding " width= "400" src = "https://i.pinimg.com/736x/d3/88/4c/d3884c7daabe848c2104b608fe5f2f2b.jpg">
+<h3 align="center">A passionate technologist from Pakistan.</h3>
+<img align="right" alt = " coding " width= "400" src = "https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnainrehmat395&label=Profile%20views&color=0e75b6&style=flat" alt="husnainrehmat395" /> </p>
 
@@ -10,14 +10,24 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1AishCmQEj10qTS8jMoNdJk0js1V38VirsCTSISY_5p0/edit?tab=t.0](https://docs.google.com/document/d/1AishCmQEj10qTS8jMoNdJk0js1V38VirsCTSISY_5p0/edit?tab=t.0)
 
-- ⚡ Fun fact **Engineer. Coder. Dreamer. Leader.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/husnain-rehmat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/husnain-rehmat/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/husnain.rehmat.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/husnain.rehmat.96/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/husnain_rehmat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/husnain_rehmat/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@husnainrehmat395shakargarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@husnainrehmat395shakargarh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/husnain-rehmat/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/husnain.rehmat.96/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/husnain_rehmat/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+
+<a href="https://www.youtube.com/@husnainrehmat395shakargarh" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
