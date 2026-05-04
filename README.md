@@ -7,11 +7,12 @@
 
 ### About Me
 
-I build projects in programming, AI, and software development, with a focus on structural engineering applications. I'm currently learning and improving my skills in modern technologies and engineering software.
-
-All of my projects are available at [husnainrehmat395.github.io](https://husnainrehmat395.github.io/). Feel free to ask me about Python, C++, JavaScript, Machine Learning, and Web Development for structural analysis.
-
-You can reach me on LinkedIn, Facebook, Instagram, or YouTube. I love exploring new technologies and finding solutions to complex structural engineering problems.
+- I build projects in programming, AI, and software development for structural engineering applications
+- Currently learning and improving my skills in modern technologies and engineering software
+- All of my projects are available at [husnainrehmat395.github.io](https://husnainrehmat395.github.io/)
+- Ask me about Python, C++, JavaScript, Machine Learning, and Web Development for structural analysis
+- Reach me on LinkedIn, Facebook, Instagram, or YouTube
+- I love exploring new technologies and solving complex structural engineering problems!
 
     </td>
     <td valign="top" width="40%">
@@ -20,8 +21,8 @@ You can reach me on LinkedIn, Facebook, Instagram, or YouTube. I love exploring 
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=husnainrehmat395&label=Profile%20views&color=0e75b6&style=flat" alt="husnainrehmat395" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=husnainrehmat395&label=Profile%20views&color=0e75b6&style=flat" alt="husnainrehmat395" /> 
 </p>
 
 ---
