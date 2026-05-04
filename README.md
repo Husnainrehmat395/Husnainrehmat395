@@ -11,7 +11,7 @@
 - Currently learning and improving my skills in modern technologies and engineering software
 - All of my projects are available at [husnainrehmat395.github.io](https://husnainrehmat395.github.io/)
 - Ask me about Python, C++, JavaScript, Machine Learning, and Web Development for structural analysis
-- Reach me on LinkedIn, Facebook, Instagram, or YouTube
+- Reach me on LinkedIn, Facebook, Instagram, YouTube, or Upwork
 - I love exploring new technologies and solving complex structural engineering problems!
 
     </td>
@@ -82,23 +82,28 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/AutoCAD_Logo.svg" alt="AutoCAD" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.autodesk.com/products/revit/overview" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Revit_logo.gif" alt="Revit" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.csiamerica.com/products/etabs" target="_blank" rel="noreferrer">
+    <img src="https://www.csiamerica.com/images/products/etabs-logo.png" alt="ETABS" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-
 ## GitHub Statistics
 
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=husnainrehmat395&show_icons=true&locale=en&theme=tokyonight" alt="husnainrehmat395" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=husnainrehmat395&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=husnainrehmat395&show_icons=true&locale=en&theme=tokyonight" alt="husnainrehmat395" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=husnainrehmat395&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=husnainrehmat395&theme=tokyonight" alt="husnainrehmat395" />
