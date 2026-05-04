@@ -30,6 +30,9 @@
 ## Connect with me
 
 <p align="left">
+  <a href="https://www.upwork.com/freelancers/~01b2f6b506ab33972c?mp_source=share" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="Upwork" height="30" width="40" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/husnain-rehmat/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>&nbsp;&nbsp;
