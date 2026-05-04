@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Husnain Rehmat</h1>
-<h3 align="center">A passionate technologist from Pakistan.</h3>
+<h3 align="center">A Structural Engineer passionate about Programming, AI, and Software Development</h3>
 
 <table>
   <tr>
@@ -7,12 +7,11 @@
 
 ### About Me
 
-- 👨‍💻 I build projects in programming, AI, and software development
-- 🌱 Currently learning and improving my skills in modern technologies
-- 🔭 All of my projects are available at [husnainrehmat395.github.io](https://husnainrehmat395.github.io/)
-- 💬 Ask me about Python, C++, JavaScript, Machine Learning, and Web Development
-- 📫 Reach me on LinkedIn, Facebook, Instagram, or YouTube
-- ⚡ Fun fact: I love exploring new technologies and solving complex problems!
+I build projects in programming, AI, and software development, with a focus on structural engineering applications. I'm currently learning and improving my skills in modern technologies and engineering software.
+
+All of my projects are available at [husnainrehmat395.github.io](https://husnainrehmat395.github.io/). Feel free to ask me about Python, C++, JavaScript, Machine Learning, and Web Development for structural analysis.
+
+You can reach me on LinkedIn, Facebook, Instagram, or YouTube. I love exploring new technologies and finding solutions to complex structural engineering problems.
 
     </td>
     <td valign="top" width="40%">
@@ -21,13 +20,13 @@
   </tr>
 </table>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=husnainrehmat395&label=Profile%20views&color=0e75b6&style=flat" alt="husnainrehmat395" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=husnainrehmat395&label=Profile%20views&color=0e75b6&style=flat" alt="husnainrehmat395" />
 </p>
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/husnain-rehmat/" target="_blank">
@@ -46,44 +45,29 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
@@ -91,14 +75,23 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/AutoCAD_Logo.svg" alt="AutoCAD" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.autodesk.com/products/revit/overview" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Revit_logo.gif" alt="Revit" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.csiamerica.com/products/etabs" target="_blank" rel="noreferrer">
+    <img src="https://www.csiamerica.com/images/products/etabs-logo.png" alt="ETABS" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <table>
   <tr>
@@ -118,5 +111,5 @@
 ---
 
 <p align="center">
-  <strong>⭐ If you like my work, feel free to star my repositories! ⭐</strong>
+  If you like my work, feel free to star my repositories!
 </p>
