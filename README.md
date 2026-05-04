@@ -82,15 +82,6 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/AutoCAD_Logo.svg" alt="AutoCAD" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.autodesk.com/products/revit/overview" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Revit_logo.gif" alt="Revit" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.csiamerica.com/products/etabs" target="_blank" rel="noreferrer">
-    <img src="https://www.csiamerica.com/images/products/etabs-logo.png" alt="ETABS" width="40" height="40"/>
-  </a>
 </p>
 
 ---
