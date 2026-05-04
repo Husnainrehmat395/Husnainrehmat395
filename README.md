@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~01b2f6b506ab33972c?mp_source=share" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2909/2909841.png" alt="Upwork" height="30" width="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO6_qbhgwBYdpsbNNa1ej57K0m-FPzw6wLwQ&s" alt="Upwork" height="30" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/husnain-rehmat/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
